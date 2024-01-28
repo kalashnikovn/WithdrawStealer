@@ -1,0 +1,31 @@
+{
+  "sponsor" : "",
+  "stealer" : "",
+  "publicRPC" : "https://rpc.ankr.com/bsc",
+  "cakeAmount" : "175000000000000000000",
+  "cakeProfit" : "237000000000000000000",
+  "preCallSec" : 20,
+  "fee": "300000000000000000",
+  "extendFee" : "3000000000000000",
+  "defaultTransferBNB" : {
+    "gasPrice" : 60,
+    "gasLimit" : 21000
+  },
+  "fastTransferBNB" : {
+    "gasPrice" : 1111,
+    "gasLimit" : 21000
+  },
+  "withdrawAll" : {
+    "gasPrice" : 700,
+    "gasLimit" : 300000
+  },
+  "transferCake" : {
+    "gasPrice" : 700,
+    "gasLimit" : 100000
+  },
+  "deposit" : {
+    "extendTime": 27,
+    "gasPrice" : 10,
+    "gasLimit" : 300000
+  }
+}
